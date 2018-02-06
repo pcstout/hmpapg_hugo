@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pcstout.github.io/hmpapg_hugo/guides/publishing/github/</loc>
-    <lastmod>2018-02-06T10:37:26-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pcstout.github.io/hmpapg_hugo/guides/licensing/</loc>
     <lastmod>2018-02-06T10:37:26-07:00</lastmod>
   </url>
   
   <url>
+    <loc>https://pcstout.github.io/hmpapg_hugo/guides/publishing/github/</loc>
+    <lastmod>2018-02-06T10:37:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pcstout.github.io/hmpapg_hugo/guides/copyright/</loc>
+    <lastmod>2018-02-06T10:37:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pcstout.github.io/hmpapg_hugo/guides/publishing/shinyappsio/</loc>
+    <lastmod>2018-02-06T10:37:26-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pcstout.github.io/hmpapg_hugo/guides/publishing/</loc>
+    <lastmod>2018-02-06T10:37:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pcstout.github.io/hmpapg_hugo/guides/publishing/bitbucket/</loc>
+    <lastmod>2018-02-06T10:37:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pcstout.github.io/hmpapg_hugo/guides/conventions/</loc>
     <lastmod>2018-02-06T10:37:26-07:00</lastmod>
   </url>
   

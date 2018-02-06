@@ -6,4 +6,12 @@ featured_image = ""
 description = ""
 +++
 
-# Purpose
+# Purpose and Objective
+
+## Why Public Good
+
+## Desired Outcome
+
+## Products to Make Public Goods
+
+## Intent
